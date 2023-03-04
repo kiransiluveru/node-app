@@ -1,0 +1,9 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.createdBy {
+  font-weight: 600;
+  font-size: 16px;
+}
